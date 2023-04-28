@@ -1,0 +1,28 @@
+body {
+  background-color: #252526;
+}
+
+.sec-1 {
+  border: 0.5px solid blue;
+  /* padding: 1rem; */
+}
+
+.container {
+  color: white;
+  text-align: left;
+  border: 0.5px solid white;
+  padding: 2rem;
+  margin: 1rem;
+}
+.container-2 {
+  color: white;
+  text-align: left;
+  border: 0.5px solid white;
+  padding: 2rem;
+  /* padding-left: ; */
+  /* padding-right: ; */
+  /* padding-top: ; */
+  /* padding-bottom: ; */
+  margin-top: 1rem;
+  margin-left: 2rem;
+}

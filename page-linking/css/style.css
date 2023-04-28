@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: calibri;
+}
+
+.main_nav {
+  border: 0.5px solid grey;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo_box {
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  padding-left: 2rem;
+}
+
+.nav_link_grp {
+  background-color: rgb(0, 255, 119);
+  min-width: 40%;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 2rem;
+}
+.nav_link_grp ul {
+  display: flex;
+  list-style-type: none;
+  gap: 2rem;
+}
+.nav_link_grp ul li {
+  /* background-color: coral; */
+}
+.nav_link_grp ul li a {
+  text-decoration: none;
+  color: #444;
+}
